@@ -1,9 +1,12 @@
+
 <!-- PROJECT LOGO -->
 
 <br />
 <p align="center">
   <img align="center" alt="js" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/css-3_official.svg" alt="CSS3" width="100" height="110">
+
   <h5 align="center">Technologies</h5>
   <h3 align="center">JavaScript DOM</h3>
 </p>
