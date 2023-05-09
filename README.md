@@ -5,7 +5,6 @@
 <p align="center">
   <img align="center" alt="js" height="100" width="110" src="https://github.com/alejopua/JavaScript--Manipulacion_del_DOM/blob/main/icons/square-js.svg">
   <img align="center" alt="Rafa-HTML" height="100" width="110" src="https://github.com/alejopua/JavaScript--Manipulacion_del_DOM/blob/main/icons/html5.svg">
-  <img align="center" alt="CSS3" height="100" width="110"  src="https://github.com/alejopua/JavaScript--Manipulacion_del_DOM/blob/main/icons/css3-alt.svg">
 
   <h5 align="center">Technologies</h5>
   <h3 align="center">JavaScript DOM</h3>
